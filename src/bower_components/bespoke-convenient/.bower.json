@@ -1,0 +1,17 @@
+{
+  "name": "bespoke-convenient",
+  "version": "0.3.0",
+  "dependencies": {
+    "bespoke.js": "~0.3.1"
+  },
+  "homepage": "https://github.com/joelpurra/bespoke-convenient",
+  "_release": "0.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.0",
+    "commit": "00f793bdfd334a4d64a63445f6dccfc0bdd78c47"
+  },
+  "_source": "git://github.com/joelpurra/bespoke-convenient.git",
+  "_target": "~0.3.0",
+  "_originalSource": "bespoke-convenient"
+}

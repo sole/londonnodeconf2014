@@ -1,0 +1,20 @@
+{
+  "name": "bespoke-secondary",
+  "version": "0.2.0",
+  "dependencies": {
+    "bespoke.js": ">=0.3.0",
+    "bespoke-convenient": "~0.3.0",
+    "bespoke-indexfinger": "~0.1.2"
+  },
+  "homepage": "https://github.com/joelpurra/bespoke-secondary",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "f6ea529f72d251369203a9c1591d4517273947ce"
+  },
+  "_source": "git://github.com/joelpurra/bespoke-secondary.git",
+  "_target": "~0.2.0",
+  "_originalSource": "bespoke-secondary",
+  "_direct": true
+}

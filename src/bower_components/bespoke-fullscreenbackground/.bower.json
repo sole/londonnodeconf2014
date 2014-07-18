@@ -1,0 +1,17 @@
+{
+  "name": "bespoke-fullscreenbackground",
+  "version": "0.0.2",
+  "dependencies": {
+    "bespoke.js": ">=0.3.0"
+  },
+  "homepage": "https://github.com/sole/bespoke-fullscreenbackground",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.2",
+    "commit": "4d4224ceeaa04911b818992c8da872118c127209"
+  },
+  "_source": "git://github.com/sole/bespoke-fullscreenbackground.git",
+  "_target": "~0.0.1",
+  "_originalSource": "bespoke-fullscreenbackground"
+}
